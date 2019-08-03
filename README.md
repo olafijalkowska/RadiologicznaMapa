@@ -13,7 +13,9 @@ Podczas semestru zimowego 2018/2019 wyżej wymieniona grupa studentów wykonała
 #Przebieg Projektu:
 Realizację projektu rozpoczęto od kilku spotkań mających na celu zapoznanie się z tematyką promieniowania jonizującego oraz ze sprzętem służącym do pomiaru tego promieniowania. Grupa miała za zadanie samodzielnie uruchomić i przetestować detektor oraz program służący do obsługi tego detektora. 
 
+
 Kolejnym krokiem było spotkanie, podczas którego zmierzono promieniowanie tła przez serię 10 pomiarów. Cała grupa zebrała się na placu przed Wydziałem Fizyki UW, samodzielnie uruchomiła detektor i rozpoczęła pomiary. Następnie zapisano je i poddano dalszej analizie przez część grupy. 
+
 
 Wynikiem była analiza danych opracowana od podstaw tak, aby była zrozumiała dla każdego ucznia na poziomie licealnym. Druga część grupy zajęła się przygotowaniem prezentacji dydaktycznej, która w graficzny sposób przybliżyła temat promieniowania jonizującego, przedstawiła jak uruchomić program obsługujący detektor oraz sam detektor (poprzez opis tekstowy, zdjęcia i krótkie filmy).
 
